@@ -6,14 +6,13 @@ WildCard信用卡主要为中国大陆及香港居民提供美国的万事达虚
 
 1.  打开 WildCard 官网
 
-    **Wildcard专属注册链接： <(https://bewildcard.com/i/CHATGPT886)> **
+    Wildcard专属注册链接： <(https://bewildcard.com/i/CHATGPT886)> 
 2.  点击页面右上角的【注册】按钮,或首页中间的【立即使用】按钮。
 
 
 
 1.  在弹出页面点击【开通】按钮。
 
-[![image](https://private-user-images.githubusercontent.com/177536994/363452515-92cb7dcd-0fbb-4a67-b7db-717de5c26462.png "image")](https://private-user-images.githubusercontent.com/177536994/363452515-92cb7dcd-0fbb-4a67-b7db-717de5c26462.png?)
 
 1.  点击【去开通】注册按钮。
 
